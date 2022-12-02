@@ -1,3 +1,5 @@
+READ THIS : THIS PROJECT WILL BE "Archive"
+
 # NextTectartworld
 
 This project was inspired by r/Place. It is an online shared canvas where you can draw individual pixels.
